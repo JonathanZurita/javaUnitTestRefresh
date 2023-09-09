@@ -1,12 +1,17 @@
 # javaUnitTestRefresh
-created a refresher course and unit tests for brushing up on basic java skills
+***This is a java refresher course where users can code along and pass JUnit tests***
 
 ## How to Run
 1. mvn clean install
-2. select 'run'
-3. open your 
+2. select a ..Tests.java configuration
+3. run the selected configuration
+4. check the tests
+5. go to directed java class to code along and pass the tests
 
 ## Common Math Functions
+1. Find the absolute value of a number
+2. Find the power of a number
+3. Round a Floating Array List
 
 ## Strings
 1. String equality
